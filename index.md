@@ -1,6 +1,5 @@
 
 # Welcome to my homepage!!
-
 ![jpg](https://github.com/Zwr408/zwr408.github.io/blob/master/IMG_0008.JPG)
 
 ## Basic Information
@@ -50,6 +49,5 @@ Advisor,Professor Zeng, *National microscale laboratory*,USTC
 2018
 - Outstanding Student Silver Award
  
- 
- #### [for more](https://github.com/Zwr408/Weiran-Zhou/raw/master/CV_Weiran%20Zhou.pdf)
+#### [for more](https://github.com/Zwr408/Weiran-Zhou/raw/master/CV_Weiran%20Zhou.pdf)
 
