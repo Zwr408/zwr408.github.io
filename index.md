@@ -1,12 +1,16 @@
 
 # Welcome to my homepage!!
-![jpg](https://github.com/Zwr408/zwr408.github.io/blob/master/IMG_0008.JPG)
+
+
+<img src="https://raw.githubusercontent.com/Zwr408/Weiran-Zhou/master/IMG_0008.JPG" width="400" alt="JPG"/>
+
+
 
 ## Basic Information
 Name: Weiran Zhou, Age: 19,          
 mobile phone: 86-15155900822,  
 current address: University of science and technology in Hefei  
-email: zwr408@mail.ustc.edu.cn  
+email: [zwr408@mail.ustc.edu.cn]  
 Born: May 26, 2000——Jingzhou, China 
 Major: Physics,Condensed physics   
 
