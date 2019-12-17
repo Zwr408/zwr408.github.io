@@ -1,6 +1,7 @@
 
-<!--Welcome to my homepage-->
-Welcome to my homepage!!
+# Welcome to my homepage!!
+
+![jpg](https://github.com/Zwr408/zwr408.github.io/blob/master/IMG_0008.JPG)
 
 ## Basic Information
 Name: Weiran Zhou, Age: 19,          
